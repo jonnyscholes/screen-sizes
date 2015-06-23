@@ -1,0 +1,10 @@
+{
+  "name": "screen-sizes",
+  "version": "0.0.1",
+  "dependencies": {
+    "cheerio": "*",
+    "request": "*",
+    "tabletojson": "*",
+    "json2csv": "*"
+  }
+}

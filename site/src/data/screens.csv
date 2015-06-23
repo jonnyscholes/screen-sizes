@@ -1,0 +1,334 @@
+model,diagonal,resolution,ppcm,company,type
+Iconia Tab A110,18,1024x600,67,Acer,
+"Iconia Tab A210, Iconia Tab A211, Iconia Tab A500, Iconia Tab A501, Iconia Tab A510, Iconia Tab A511",26,1280x800,59,Acer,
+Iconia Tab A701,26,1920x1200,88,Acer,
+Iconia Tab W700,29,1920x1080,75,Acer,
+Ainol Novo 7 Crystal,18,1024x600,67,Ainol,
+Ainol Novo 7 Aurora I/II,18,1024x600,67,Ainol,
+Ainol Novo 7 Fire,18,1280x800,85,Ainol,
+Ainol Novo10 Hero,25,1280x800,59,Ainol,
+Ainol Novo9 Spark,25,2048x1536,104,Ainol,
+ONE TOUCH T20 7',18,1024x600,67,Alcatel,
+"Kindle, Kindle Keyboard 3G, Kindle Touch",15,600x800,66,Amazon,
+Kindle DX,25,824x1200,59,Amazon,
+Kindle Fire,18,1024x600,67,Amazon,
+"Kindle Fire HD 7""",18,1280x800,85,Amazon,
+"Kindle Fire HD 8.9""",23,1920x1200,100,Amazon,
+"Kindle Fire HDX 7""",18,1920x1200,127,Amazon,
+"Kindle Fire HDX 8.9""",23,2560x1600,133,Amazon,
+"Kindle Paperwhite, Paperwhite 3G",15,758x1024,83,Amazon,
+iPod Classic,6.4,320x240,64,Apple,
+iPod Nano,6.4,240x432,80,Apple,
+iPhone 3GS,8.9,320x480,64,Apple,
+iPhone 4 / iPod Touch,8.9,960x640,128,Apple,
+iPhone 4S / iPod Touch,8.9,960x640,128,Apple,
+iPhone 5 / iPod Touch,10,1136x640,128,Apple,
+iPhone 5C,10,1136x640,128,Apple,
+iPhone 5S,10,1136x640,128,Apple,
+iPad Mini 1st gen,20,1024x768,64,Apple,
+iPad Mini 2nd gen,20,2048x1536,128,Apple,
+iPad,25,1024x768,52,Apple,
+iPad / iPad Air,25,2048x1536,104,Apple,
+MacBook Air 11-inch,29,1366x768,53,Apple,
+MacBook Air 13-inch,34,1440x900,50,Apple,
+MacBook Pro 13-inch,34,1280x800,44,Apple,
+MacBook Pro 13-inch Retina display,34,2560x1600,89,Apple,
+MacBook Pro 15-inch,39,1440x900,43,Apple,
+MacBook Pro 15-inch w/ Hi-Res screen,39,1680x1050,50,Apple,
+MacBook Pro 15-inch Retina display,39,2880x1800,87,Apple,
+iMac 21.5-inch,55,1920x1080,40,Apple,
+iMac 27-inch,69,2560x1440,43,Apple,
+Thunderbolt Display,69,2560x1440,43,Apple,
+iPod Nano 1st/2nd gen,3.8,176x132,58,Apple,
+iPod Nano 3rd gen,5.1,320x240,80,Apple,
+iPod Nano 4th gen,5.1,320x240,80,Apple,
+iPod Nano 5th gen,5.1,376x240,80,Apple,
+iPod Nano 6th gen,3.9,240x240,87,Apple,
+iPhone / iPod Touch,9.0,480x320,64,Apple,
+MacBook Pro 17-inch Plastic,43,1680x1050,46,Apple,
+MacBook 13-inch Aluminum,34,1280x800,44,Apple,
+MacBook Pro 17-inch Aluminum,43,1920x1200,52,Apple,
+iMac 20-inch,51,1680x1050,39,Apple,
+iMac 24-inch,61,1920x1200,37,Apple,
+Macintosh 128K,23,512x342,28,Apple,
+"Eee Pad Transformer, Eee Pad Transformer Prime, Transformer Pad TF300T",26,1280x800,59,ASUS,
+Eee PC 700,18,800x480,52,ASUS,
+Eee PC 900/901,23,1024x600,52,ASUS,
+Eee PC 1000,26,1024x600,57,ASUS,
+"Eee PC 1005HR, VivoTab RT TF600T",26,1366x768,62,ASUS,
+Eee PC 1101HA,29,1366x768,53,ASUS,
+Eee PC 1215T,31,1366x768,51,ASUS,
+Nexus 7 (2012),18,1280x800,85,ASUS,
+Nexus 7 (2013),18,1920x1200,127,ASUS,
+Transformer Pad Infinity,26,1920x1200,88,ASUS,
+X58L,39,1280x800,39,ASUS,
+BlackBerry PlayBook,18,1024x600,67,Blackberry,
+BlackBerry Passport,18,1440x1440,178,Blackberry,
+BlackBerry Classic,9,1080x1080,172,Blackberry,
+BlackBerry Z30,13,720x1280,116,Blackberry,
+BlackBerry Z10,11,1280x768,140,Blackberry,
+BlackBerry Z3,13,960x540,87,Blackberry,
+BlackBerry Q10,8,720x720,129,Blackberry,
+BlackBerry Q5,8,720x720,129,Blackberry,
+BlackBerry Porsche 9982,11,1280x768,140,Blackberry,
+BlackBerry Porsche 9981,7.1,640x480,113,Blackberry,
+BlackBerry Bold 9930,7.1,640x480,113,Blackberry,
+BlackBerry Bold 9900,7.1,640x480,113,Blackberry,
+Venue 8 Pro,20,1280x800,74,Dell,
+Venue 11 Pro,27,1920x1080,80,Dell,
+Precision M3800,40,3200x1800,94,Dell,
+Glass Explorer,,640x360,,Google,
+HP Elitebook 2760p,31,1280x800,49,HP,
+HP TouchPad,25,1024x768,52,HP,
+HP ZR30w,75,2560x1600,40,HP,
+HP Slate 7 Extreme,18,1280x800,85,HP,
+8X,11,720x1280,140,HTC,
+"Aria, Dream, Gratia, Hero, Legend, Magic, Salsa, Wildfire S",8.1,320x480,71,HTC,
+ChaCha,6.6,480x320,87,HTC,
+"Desire,[A] Desire Z, Desire S, Droid Incredible,[A] Nexus One, One V",9.4,480x800,99,HTC,
+"Desire HD, Evo 4G, One SV, Thunderbolt",11,480x800,85,HTC,
+"Evo 3D, One S, Sensation, Sensation XE",11,540x960,101,HTC,
+"Evo 4G LTE, One X",12,720x1280,123,HTC,
+"First, One Mini, Rezound",11,720x1280,135,HTC,
+HD2,11,480x800,85,HTC,
+"J Butterfly, One (M8)",13,1080x1920,174,HTC,
+One (M7),12,1080x1920,185,HTC,
+One Max,15,1080x1920,147,HTC,
+Tattoo,7.1,240x320,56,HTC,
+"Touch Diamond, Touch Pro",7.1,480x640,113,HTC,
+Touch Diamond2,8.1,480x800,115,HTC,
+Touch HD,9.7,480x800,97,HTC,
+Touch Pro2,9.1,480x800,102,HTC,
+"Touch2, Wizard",7.1,240x320,56,HTC,
+Wildfire,8.1,240x320,49,HTC,
+"Ascend D quad XL, Ascend G615",11,720x1280,128,Huawei,
+Ascend D2,13,1080x1920,174,Huawei,
+Ascend P1,11,540x960,101,Huawei,
+Ascend G510,11,540x960,96,Huawei,
+IBM T220/T221 LCD monitors,56,3840x2400,80,IBM,
+Jolla,11,540x960,96,Jolla,
+27MT93,69,1920x1080,32,LG,
+29EA93,74,2560x1080,38,LG,
+G Flex,15,1280x720,96,LG,
+G2,13,1920x1080,167,LG,
+G3,14,2560x1440,210,LG,
+LU1400,7.1,480x800,131,LG,
+"Nexus 4, Optimus G",12,768x1280,125,LG,
+Nexus 5,12.6,1920x1080,175,LG,
+"Optimus 2X, Optimus Black",10,480x800,92,LG,
+Optimus 3D,11,480x800,85,LG,
+"Optimus 4X HD, Optimus LTE 2",12,720x1280,123,LG,
+Optimus G Pro,14,1920x1080,158,LG,
+"Optimus LTE, Spectrum",11,720x1280,128,LG,
+Optimus One,8.1,320x480,54,LG,
+Surface Pro,27,1920x1080,82,Microsoft,
+Surface Pro 2,27,1920x1080,82,Microsoft,
+Surface Pro 3,30,2160x1440,85,Microsoft,
+Surface,27,1366x768,58,Microsoft,
+Surface 2,27,1920x1080,82,Microsoft,
+"Atrix 4G, Droid 3, Droid 4",10,960x540,108,Motorola,
+"Atrix 2, Droid Razr, Droid Razr M, Moto E",11,960x540,101,Motorola,
+"Droid Maxx, Droid Ultra",13,720x1280,116,Motorola,
+Droid Mini,11,720x1280,135,Motorola,
+Defy,9.4,854x480,104,Motorola,
+Defy Mini,8.1,320x480,71,Motorola,
+"Droid, Milestone",9.4,854x480,104,Motorola,
+"Droid Razr HD, Moto X",12,720x1280,123,Motorola,
+Droid X,11,854x480,90,Motorola,
+Flipout,7.1,240x320,56,Motorola,
+Moto G,11,720x1280,128,Motorola,
+"Xoom, Xyboard",26,1280x800,59,Motorola,
+Game Boy,6.6,160x144,33,Nintendo,
+Game Boy Advance,7.4,240x160,39,Nintendo,
+Game Boy Micro,5.1,240x160,57,Nintendo,
+"770, N800, N810",10,800x480,90,Nokia,
+5530,7.4,360x640,100,Nokia,
+"5800, C5-03, C6-01, X6",8.1,360x640,90,Nokia,
+"6300, E51",5.1,240x320,79,Nokia,
+"C3 Touch and Type, X3 Touch and Type",6.1,240x320,66,Nokia,
+"C7-00, N8, N97",8.9,360x640,83,Nokia,
+E6,6.2,640x480,128,Nokia,
+"E7-00, X7",10,360x640,72,Nokia,
+"E70, N80, N90",5.3,352x416,102,Nokia,
+E71,6.0,320x240,67,Nokia,
+"Lumia 710, Lumia 800",9.4,480x800,99,Nokia,
+"Lumia 520, Lumia 720, Lumia 820, Lumia 822, Lumia 900",11,480x800,85,Nokia,
+"Lumia 920, Lumia 925, Lumia 928, Lumia 1020",11,768x1280,131,Nokia,
+Lumia 1320,15,720x1280,96,Nokia,
+Lumia 1520,15,1080x1920,144,Nokia,
+Lumia 2520,26,1920x1080,86,Nokia,
+"N70, N72",5.3,176x208,51,Nokia,
+"N85, N95",6.6,240x320,61,Nokia,
+"N92, N95 8GB, N96",7.1,240x320,56,Nokia,
+N900,8.9,480x800,105,Nokia,
+N9,9.9,854x480,99,Nokia,
+"XO-1 ""$100 Laptop"" luminance/sunlit",19,1200x900,79,OLPC,
+"XO-1 ""$100 Laptop"" effective chrominance",19,693x520,45,OLPC,
+"XO-1 ""$100 Laptop"" backlit perceptual",19,984x738,65,OLPC,
+One,14,1080x1920,158,OnePlus,
+Neo 1973,7.1,480x640,111,Openmoko,
+Neo FreeRunner,7.1,480x640,111,Openmoko,
+Pandora,11,800x480,85,OpenPandora,
+Find 5,13,1920x1080,174,Oppo,
+Find 7,14,2560x1440,212,Oppo,
+N1,15,1920x1080,148,Oppo,
+Pre / Pre 2,7.9,480x320,73,Palm,
+Centro,5.7,320x320,79,Palm,
+ELUGA,11,960x540,101,Panasonic,
+PRO-111FD/KUCXC,130,1920x1080,17,Pioneer,
+PQ 3Qi-01,26,1024x600,46,Pixel Qi,
+PQ101WX01,26,1280x800,59,Pixel Qi,
+PQ070WS02,18,1024x600,67,Pixel Qi,
+ATIV SmartPC Pro,47,1920x1080,46,Samsung,
+"Epic 4G, Galaxy S, Galaxy S Plus, Nexus S",10,480x800,92,Samsung,
+"Focus S, SWD-M100",11,480x800,85,Samsung,
+Galaxy Ace,8.9,320x480,65,Samsung,
+Galaxy Gio,8.1,320x480,71,Samsung,
+Galaxy Grand,13,480x800,74,Samsung,
+Galaxy Grand 2,13.3,1280x720,110,Samsung,
+Galaxy Mega 5.8,15,960x540,72,Samsung,
+Galaxy Mega 6.3,16,1280x720,92,Samsung,
+Galaxy Nexus,11.8,1280x720,124,Samsung,
+Galaxy Note,13,800x1280,112,Samsung,
+Galaxy Note II,14.1,1280x720,104,Samsung,
+Galaxy Note 3,14,1920x1080,152,Samsung,
+Galaxy Note 8,20,800x1280,74,Samsung,
+Galaxy Note 10.1,26,800x1280,59,Samsung,
+"Galaxy Note 10.1 (2014 Edition), Galaxy Tab Pro 10.1",26,2560x1600,118,Samsung,
+Galaxy S II,11,480x800,85,Samsung,
+Galaxy S III,12,1280x720,120,Samsung,
+Galaxy S4,13,1920x1080,174,Samsung,
+Galaxy S4 Mini,11,960x540,101,Samsung,
+Galaxy S5,13,1920x1080,170,Samsung,
+Galaxy Tab,18,600x1024,67,Samsung,
+Galaxy Tab 7.7,20,800x1280,77,Samsung,
+Galaxy Tab 8.9,23,800x1280,67,Samsung,
+Galaxy Tab 10.1,26,800x1280,59,Samsung,
+Galaxy Tab 2 7.0,18,600x1024,67,Samsung,
+Galaxy Tab Pro 8.4,21,2560x1600,141,Samsung,
+Galaxy Tab Pro 12.2,31,2560x1600,97,Samsung,
+Galaxy W,9.4,480x800,99,Samsung,
+Galaxy Y,7.6,240x320,52,Samsung,
+Jet,7.9,480x800,119,Samsung,
+Nexus 10,25,2560x1600,119,Samsung,
+Wave,8.4,480x800,111,Samsung,
+930SH,7.6,480x854,129,Sharp,
+934SH,7.6,480x854,129,Sharp,
+936SH,7.6,480x854,129,Sharp,
+SX862,8.1,480x854,120,Sharp,
+IS03,8.9,640x960,128,Sharp,
+941SH,10,480x1024,111,Sharp,
+006SH,11,540x960,104,Sharp,
+SH-02F,11.5,1080x1920,192,Sharp,
+PlayStation Vita,13,960x544,87,Sony,
+PSP,11,480x272,50,Sony,
+PSP Go,9.7,480x272,57,Sony,
+Vaio F series,42,1920x1080,53,Sony,
+Vaio Flip 15,39,2880x1620,84,Sony,
+Vaio P series,20,1600x768,87,Sony,
+Vaio UX series,11,1024x600,104,Sony,
+Vaio Z92,33,1600x900,55,Sony,
+Vaio Z128[25],33,1920x1080,66,Sony,
+Xperia E,8.9,320x480,65,Sony,
+"Xperia ion, Xperia ZR",11.6,720x1280,127,Sony,
+Xperia P,10,540x960,108,Sony,
+Xperia S,11,720x1280,135,Sony,
+Xperia sola,9.4,480x854,104,Sony,
+"Xperia Tablet Z, Xperia Z2 Tablet",26,1920x1200,88,Sony,
+Xperia U,8.9,480x854,110,Sony,
+"Xperia Z, Xperia Z1",13,1080x1920,174,Sony,
+Xperia Z2,13,1080x1920,167,Sony,
+Xperia Z Ultra,16.2,1920x1080,135,Sony,
+Satio,8.9,360x640,83,Sony Ericsson,
+SO905iCS,6.9,480x864,144,Sony Ericsson,
+W810i,4.8,176x220,58,Sony Ericsson,
+"W850i, W890i",5.1,240x320,79,Sony Ericsson,
+W880i,4.6,240x320,87,Sony Ericsson,
+W995,6.6,240x320,61,Sony Ericsson,
+"Xperia Arc, Xperia Arc S",11,480x854,92,Sony Ericsson,
+Xperia neo,9.4,480x854,104,Sony Ericsson,
+Xperia ray,8.4,480x854,117,Sony Ericsson,
+Xperia X1,7.6,480x800,122,Sony Ericsson,
+Xperia X8,7.6,320x480,76,Sony Ericsson,
+Xperia X10,10,480x854,96,Sony Ericsson,
+Hudl,18,1400x900,95,Tesco,
+Toshiba Portege G900,7.6,800x480,123,Toshiba,
+Toshiba NB200,26,1024x600,46,Toshiba,
+Mi2,11,1280x720,134,Xiamoi,
+Mi3,13,1920x1080,174,Xiamoi,
+Kindle 1 & 2,15,600x800,66,Amazon,e-reader
+Kindle DX,25,824x1200,59,Amazon,e-reader
+Kindle Paperwhite,15,758x1024,83,Amazon,e-reader
+Nook,15,600x800,66,Barnes & Noble,e-reader
+Cybook Gen3 / GoldEdtition / Orizon,15,600x800,66,Bookeen,e-reader
+Cybook Opus,13,600x800,79,Bookeen,e-reader
+Story HD,15,768x1024,83,iRiver,e-reader
+Aura HD / Wi-Fi,17,1440x1080,104,Kobo,e-reader
+Touch / Wi-Fi,15,600x800,66,Kobo,e-reader
+PRS300 / PRS350,13,600x800,79,Sony,e-reader
+PRS505 / PRS600 / PRS700,15,600x800,66,Sony,e-reader
+MVC-CD300,6.4,230x180,45,Sony,Digital camera
+DSC-W7,6.4,226x170,44,Sony,Digital camera
+DSC-H50,6.4,320x240,63,Sony,Digital camera
+D40 ,6.4,320x240,63,Nikon,Digital camera
+D3000 ,7.6,320x240,52,Nikon,Digital camera
+D3100 ,7.6,320x240,52,Nikon,Digital camera
+D3200 ,7.6,640x480,105,Nikon,Digital camera
+D50 ,5.1,240x180,59,Nikon,Digital camera
+D40x ,6.4,320x240,63,Nikon,Digital camera
+D60 ,6.4,320x240,63,Nikon,Digital camera
+D5000 ,6.9,320x240,58,Nikon,Digital camera
+D5100 ,7.6,640x480,105,Nikon,Digital camera
+D70 ,4.6,240x180,66,Nikon,Digital camera
+D70s ,5.1,240x180,59,Nikon,Digital camera
+D80 ,6.4,320x240,63,Nikon,Digital camera
+D90 ,7.6,640x480,105,Nikon,Digital camera
+D7000 ,7.6,640x480,105,Nikon,Digital camera
+D100 ,4.6,230x173,63,Nikon,Digital camera
+D200 ,6.4,320x240,63,Nikon,Digital camera
+D300 ,7.6,640x480,105,Nikon,Digital camera
+D300s ,7.6,640x480,105,Nikon,Digital camera
+D700 ,7.6,640x480,105,Nikon,Digital camera
+D800 ,8.1,640x480,98,Nikon,Digital camera
+D1 ,5.1,230x173,57,Nikon,Digital camera
+D1X ,5.1,240x180,59,Nikon,Digital camera
+D1H ,5.1,240x180,59,Nikon,Digital camera
+D2H ,6.4,306x230,60,Nikon,Digital camera
+D2X ,6.4,320x240,63,Nikon,Digital camera
+D2Hs ,6.4,320x240,63,Nikon,Digital camera
+D2Xs ,6.4,320x240,63,Nikon,Digital camera
+D3 ,7.6,640x480,105,Nikon,Digital camera
+D3s ,7.6,640x480,105,Nikon,Digital camera
+D3x ,7.6,640x480,105,Nikon,Digital camera
+D4 ,8.1,640x480,98,Nikon,Digital camera
+EOS 1000D ,6.4,320x240,63,Canon,Digital camera
+EOS 1100D ,6.9,320x240,58,Canon,Digital camera
+EOS 300D ,4.6,230x173,63,Canon,Digital camera
+EOS 350D ,4.6,226x170,63,Canon,Digital camera
+EOS 400D ,6.4,320x240,63,Canon,Digital camera
+EOS 450D ,7.6,320x240,52,Canon,Digital camera
+EOS 500D ,7.6,640x480,105,Canon,Digital camera
+EOS 550D ,7.6,720x480,113,Canon,Digital camera
+EOS 600D ,7.6,720x480,113,Canon,Digital camera
+EOS 650D ,7.6,720x480,113,Canon,Digital camera
+EOS D30 ,4.6,226x170,63,Canon,Digital camera
+EOS D60 ,4.6,226x170,63,Canon,Digital camera
+EOS 10D ,4.6,230x173,63,Canon,Digital camera
+EOS 20D ,4.6,230x173,63,Canon,Digital camera
+EOS 30D ,6.4,320x240,63,Canon,Digital camera
+EOS 40D ,7.6,320x240,52,Canon,Digital camera
+EOS 50D ,7.6,640x480,105,Canon,Digital camera
+EOS 60D ,7.6,720x480,113,Canon,Digital camera
+EOS 7D ,7.6,640x480,105,Canon,Digital camera
+EOS 5D ,6.4,320x240,63,Canon,Digital camera
+EOS 5D Mark II ,7.6,640x480,105,Canon,Digital camera
+EOS 5D Mark III ,8.1,720x480,110,Canon,Digital camera
+EOS 1D ,5.1,230x173,57,Canon,Digital camera
+EOS 1Ds ,5.1,230x173,57,Canon,Digital camera
+EOS-1D Mark II ,5.1,320x240,79,Canon,Digital camera
+EOS-1D Mark II N ,6.4,320x240,63,Canon,Digital camera
+EOS-1Ds Mark II ,5.1,320x240,79,Canon,Digital camera
+EOS-1D Mark III ,7.6,320x240,52,Canon,Digital camera
+EOS-1Ds Mark III ,7.6,320x240,52,Canon,Digital camera
+EOS-1D Mark IV ,7.6,640x480,105,Canon,Digital camera
+EOS-1D X ,8.1,720x480,110,Canon,Digital camera
